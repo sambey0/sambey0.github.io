@@ -1,0 +1,69 @@
+[
+    {
+        "title": "Small Scale Hypertextual Web Search Engine",
+        "desc": "Implemented a web crawler from scratch for indexing using Python and MongoDB. Developed a ranking algorithm to provide accurate search results, integrating the web application with MongoDB.",
+        "tags": [
+            "Web Crawler",
+            "Python",
+            "MongoDB",
+            "Search Engine"
+        ],
+        "img": "assets/projects/contrastive-loss.png",
+        "links": [
+            {
+                "url": "https://github.com/sambey04/web-crawler",
+                "type": "code"
+            }
+        ]
+    },
+    {
+        "title": "Typing Tutor",
+        "desc": "Developed a typing tutor that dynamically generates words based on user mistakes, improving typing accuracy by 60%. The project analyzed user errors to create a personalized learning experience.",
+        "tags": [
+            "Python",
+            "Typing Tutor",
+            "Learning Algorithm"
+        ],
+        "img": "assets/projects/deep-learning.png",
+        "links": [
+            {
+                "url": "https://github.com/sambey04/typing-tutor",
+                "type": "code"
+            }
+        ]
+    },
+    {
+        "title": "API Testing and Automation",
+        "desc": "Improved API testing through manual scripts and Postman. Implemented automation scripts for testing web applications and Android apps using Python Selenium and Appium, identifying critical bugs such as stored cross-site scripting (XSS).",
+        "tags": [
+            "API Testing",
+            "Automation",
+            "Python",
+            "Selenium",
+            "Appium"
+        ],
+        "img": "assets/projects/NLP.png",
+        "links": [
+            {
+                "url": "https://github.com/sambey04/api-testing",
+                "type": "code"
+            }
+        ]
+    },
+    {
+        "title": "Codeforces Competitive Programming",
+        "desc": "Actively participated in competitive programming on Codeforces. Achieved a max rank of 1768, solving complex algorithmic problems and enhancing problem-solving skills.",
+        "tags": [
+            "Competitive Programming",
+            "Algorithms",
+            "Data Structures"
+        ],
+        "img": "assets/projects/RL.png",
+        "links": [
+            {
+                "url": "https://codeforces.com/profile/sambey04",
+                "type": "profile"
+            }
+        ]
+    }
+]
