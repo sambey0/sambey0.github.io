@@ -1,1 +1,16 @@
-node_modules
+# Build output
+/build/
+
+# Dependencies
+/node_modules/
+
+# Logs & misc
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log
+.DS_Store
+
+# Env
+.env
+.env.*

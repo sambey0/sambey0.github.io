@@ -12,12 +12,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faDownload } from '@fortawesome/free-solid-svg-icons'
 import {
   faLinkedinIn,
-  faTwitter,
   faGithub,
-  faMediumM,
-  faGoogle,
-  faResearchgate,
-  faOrcid
 } from '@fortawesome/free-brands-svg-icons'
 import './App.css'
 
