@@ -20,7 +20,7 @@ function About() {
             <Row>
               <Col md={4} xs={12}>
                 <div style={{ display: 'block' }}>
-                  <img className='portrait' src='./assets/samarth_img2.jpg' alt='Samarth Batra' />
+                  <img className='portrait' src='./assets/samarth_img3.jpg' alt='Samarth Batra' />
                   <h3 className='text-center'>Samarth Batra </h3>
                   <h4 className='text-center'>Ex Software Developer @ Amazon</h4>
                   <ul className='social-links text-center'>
