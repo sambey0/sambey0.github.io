@@ -19,8 +19,12 @@ function About() {
           <Col md={10} sm={12} className='mt-3'>
             <Row>
               <Col md={4} xs={12}>
-                <div style={{ display: 'block' }}>
-                  <img className='portrait' src='./assets/samarth_img3.jpg' alt='Samarth Batra' />
+<div className="avatar mx-auto">
+  <img
+    className="portrait"
+    src="./assets/samarth_img3.jpg"
+    alt="Samarth Batra"
+  />
                   <h3 className='text-center'>Samarth Batra </h3>
                   <h4 className='text-center'>Ex Software Developer @ Amazon</h4>
                   <ul className='social-links text-center'>

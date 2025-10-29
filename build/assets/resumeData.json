@@ -1,0 +1,121 @@
+{
+    "education": [
+        {
+            "name": "Stony Brook University",
+            "degree": "Masters in Computer Science",
+            "date": "AUG 2024 - Expected AUG 2026",
+            "area": "Computer Science",
+            "summary": "Currently pursuing a Master's in Computer Science with an expected GPA of 4.0. Coursework includes Algorithm Design, Data Structures, Object-Oriented Programming, and Database Management Systems.",
+            "location": "New York, United States"
+        },
+        {
+            "name": "University of Petroleum and Energy Studies",
+            "degree": "B.Tech in Computer Science",
+            "date": "JUNE 2017 - JUNE 2021",
+            "area": "Computer Science",
+            "summary": "Graduated with a Cumulative GPA of 3.58. Focused on cloud computing, virtualization technology, and competitive programming.",
+            "location": "India"
+        }
+    ],
+    "work": [
+        {
+            "name": "Amazon",
+            "position": "Software Development Engineer (SDE-1)",
+            "date": "MAY 2022 - AUG 2024",
+            "summary": "Designed and developed multiple high-level designs (HLD) and low-level designs (LLD) for product separation, inventory management, and reimbursement API solutions.",
+            "location": "Bengaluru, India"
+        },
+        {
+            "name": "Cognizant",
+            "position": "Software Engineer",
+            "date": "JAN 2021 - MAY 2022",
+            "summary": "Contributed to CI/CD pipelines, improved software testing and deployment processes, and handled exception management.",
+            "location": "Gurugram, India"
+        },
+        {
+            "name": "Across The Globe Handling ATG.World (Internship)",
+            "position": "API Testing and Automation",
+            "date": "JUN 2020 - AUG 2020",
+            "summary": "Implemented automation scripts for testing web and Android apps using Python Selenium and Appium. Found critical cross-site scripting bugs.",
+            "location": "Bengaluru, India"
+        }
+    ],
+    "skills": [
+        {
+            "category": "Programming Languages",
+            "items": [
+                "Java",
+                "Python",
+                "C",
+                "C++",
+                "Bash"
+            ]
+        },
+        {
+            "category": "Tools and Technologies",
+            "items": [
+                "Postman",
+                "Burp Suite",
+                "Metasploit",
+                "Docker",
+                "AWS",
+                "Jenkins",
+                "Maven",
+                "Confluence",
+                "Jira"
+            ]
+        },
+        {
+            "category": "Other",
+            "items": [
+                "Linux",
+                "Arduino"
+            ]
+        }
+    ],
+    "certifications": [
+        {
+            "title": "NPTEL - Ethical Hacking and Networks"
+        },
+        {
+            "title": "NPTEL - Introduction to Algorithms and Analysis"
+        }
+    ],
+    "projects": [
+        {
+            "name": "Small Scale Hypertextual Web Search Engine",
+            "description": "Implemented a web crawler for indexing using Python and MongoDB. Created a ranking algorithm to provide accurate search results."
+        },
+        {
+            "name": "Typing Tutor",
+            "description": "Developed a typing tutor that dynamically generates words based on user mistakes, improving accuracy by 60%."
+        }
+    ],
+    "awards": [
+        {
+            "name": "CodeForces Rank",
+            "description": "Max rank of 1768 on CodeForces."
+        },
+        {
+            "name": "IEEE Hackathon",
+            "description": "Top 6 in IEEE Hackathon 2019."
+        },
+        {
+            "name": "CSI Hackathon",
+            "description": "Selected in top 10 participants."
+        },
+        {
+            "name": "InterviewBit Contest",
+            "description": "Ranked 24."
+        },
+        {
+            "name": "Snackdown 2019",
+            "description": "Round 1B - Ranked 436."
+        }
+    ],
+    "links": {
+        "github": "https://github.com/sambey04",
+        "linkedin": "https://www.linkedin.com/in/samarth-batra-4bb223164/",
+        "portfolio": "http://www.batrasamarth.com"
+    }
+}

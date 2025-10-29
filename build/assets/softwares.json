@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Small Scale Hypertextual Web Search Engine",
+        "url": "https://github.com/sambey04/web-crawler",
+        "source": "https://github.com/sambey04/web-crawler",
+        "desc": "Implemented a web crawler from scratch for indexing using Python and MongoDB. Developed a ranking algorithm to provide accurate search results, integrating the web application with MongoDB."
+    },
+    {
+        "title": "Typing Tutor",
+        "url": "https://github.com/sambey04/Typing_tutor",
+        "source": "https://github.com/sambey04/Typing_tutor",
+        "desc": "Developed a typing tutor that dynamically generates words based on user mistakes, improving typing accuracy by 60%. The project analyzed user errors to create a personalized learning experience."
+    },
+    {
+        "title": "API Testing and Automation",
+        "url": "https://github.com/sambey04/api-testing",
+        "source": "https://github.com/sambey04/api-testing",
+        "desc": "Improved API testing through manual scripts and Postman. Implemented automation scripts for testing web applications and Android apps using Python Selenium and Appium, identifying critical bugs such as stored cross-site scripting (XSS)."
+    },
+    {
+        "title": "Codeforces Competitive Programming",
+        "url": "https://codeforces.com/profile/sambey04",
+        "source": "https://codeforces.com/profile/sambey04",
+        "desc": "Actively participated in competitive programming on Codeforces. Achieved a max rank of 1768, solving complex algorithmic problems and enhancing problem-solving skills."
+    }
+]
