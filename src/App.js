@@ -20,9 +20,8 @@ import './App.css'
 import About from './about'
 import Resume from './resume'
 import './resume.css'
-import { Publications, parsePublication } from './publications'
+import {parsePublication } from './publications'
 import './publications.css'
-import Projects from './projects'
 import Softwares from './softwares'
 class NavLink extends Component {
   constructor(props) {
